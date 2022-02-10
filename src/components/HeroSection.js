@@ -9,7 +9,7 @@ function HeroSection() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="./images/pic62.jpg"
+            src="./Images/pic62.jpg"
             alt="First slide"
           />
           <Carousel.Caption bsPrefix="hero-txt">
@@ -22,7 +22,7 @@ function HeroSection() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="./images/beans.jpg"
+            src="./Images/beans.jpg"
             alt="Second slide"
           />
 
@@ -37,7 +37,7 @@ function HeroSection() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="./images/Cup.jpg"
+            src="./Images/Cup.jpg"
             alt="Third slide"
           />
 
